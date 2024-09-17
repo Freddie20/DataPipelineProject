@@ -28,12 +28,12 @@ The data pipeline includes the following stages:
 
 ## Technologies Used
 
-- **AWS Glue** [AWS Glue](https://aws.amazon.com/en/glue/): For ETL (Extract, Transform, Load) processing.
+- [AWS Glue](https://aws.amazon.com/en/glue/): For ETL (Extract, Transform, Load) processing.
 - **Amazon RDS (MySQL)**: Source database for storing transactional data.
 - **Amazon S3**: Scalable object storage for both raw and transformed data.
-- **Amazon Athena** [Amazon Athena](https://aws.amazon.com/en/athena/): Serverless query service to analyze data stored in S3.
+- [Amazon Athena](https://aws.amazon.com/en/athena/): Serverless query service to analyze data stored in S3.
 - **Jupyter Lab**: For data visualization and analysis.
-- **Terraform**[Terraform](https://www.terraform.io/): Infrastructure as Code (IaC) tool to automate AWS resource provisioning.
+- [Terraform](https://www.terraform.io/): Infrastructure as Code (IaC) tool to automate AWS resource provisioning.
 
 ## Project Setup
 
