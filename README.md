@@ -111,5 +111,5 @@ Let us know if you encounter any issues or have ideas for improvements! 🚀
 **Author:** ✍️
 
 - Freda Victor
-- [Project Blog](https://learndataengineering.hashnode.dev/building-an-automated-job-scraping-system-on-aws-challenges-solutions-and-insights).
+- [Project Blog](https://learndataengineering.hashnode.dev/automating-a-scalable-data-pipeline-with-aws-glue-athena-and-terraform).
 - Date: 17 September 2024
