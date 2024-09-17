@@ -12,8 +12,8 @@ This repository contains the code and configurations to build a fully automated 
 - [Installation](#installation)
 - [Running the Pipeline](#running-the-pipeline)
 - [Challenges and Solutions](#challenges-and-solutions)
-- [Contributing](#contributing)
-- [License](#license)
+- [Conclusion](#conclusion)
+
 
 ## Architecture
 
@@ -61,7 +61,7 @@ The data pipeline includes the following stages:
     The `tf` files you checked allow you to declare the resources of your data 
     architecture. You still need to specify for AWS Glue how to perform data 
     extraction, transformation, and load. You can check all of these steps as Python 
-    script [glue_job.py](/DataPipeline Project/jupyterlab/glue_job.py). 
+    script [glue_job.py](jupyterlab/glue_job.py). 
 
 4. **Deploy the infrastructure**:
     ```bash
